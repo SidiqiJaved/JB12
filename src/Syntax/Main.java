@@ -16,5 +16,8 @@ int a=10;
 
 
         System.out.println("Eveyrhing is uptodate");
+
+        System.out.println("wow i didnt know how it works" +
+                "" );
     }
 }
