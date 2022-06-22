@@ -13,5 +13,8 @@ int a=10;
         if (a < b){
             System.out.println("10 is less then 20" );
         }
+
+
+        System.out.println("Eveyrhing is uptodate");
     }
 }
